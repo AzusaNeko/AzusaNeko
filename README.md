@@ -1,4 +1,11 @@
-### Hi there 👋
+## 自我介绍
+| 姓名 | 班级 |
+| --- | --- |
+| 黎子杨 |集美大学 计算2111 |
+
+目前喜欢的事情是看国漫和漫画，游戏喜欢玩舟（伪重度集成战略玩家），打抢（艾派克斯和涩爱死狗）
+是一个一看就会一做就废的人
+
 
 <!--
 **AzusaNeko/AzusaNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
